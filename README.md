@@ -63,4 +63,4 @@ Feel free to use, modify, and distribute the code for personal or commercial pur
 
 ## Acknowledgments
 
-The FakeNews web app and machine learning models were developed by Hare Krishna.
+The FakeNews web app and machine learning models were developed by Hemant.
